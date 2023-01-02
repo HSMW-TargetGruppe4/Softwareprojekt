@@ -1,7 +1,6 @@
 # Softwareprojekt
-Softwareprojekt forensische Werkzeuge (hate speech &amp; target)
 
-Willkommen auf der GitHub-Page
+Willkommen auf der GitHub-Page für das Softwareprojekt forensische Werkzeuge (hate speech &amp; target) der TargetGruppe_4!
 
 ## Tasks
 ### Teilaufgabe a: Hate-Speech-Detektion
