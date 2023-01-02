@@ -21,3 +21,7 @@ The best performing model, both in the hate speech and non-hate speech classific
 ### Target entities Klassifikator
 
 The best performing model overall (regarding cross-validation score) is RandomForestClassifier with a cross-validation score of 76.0%.
+
+### Classification Reports
+
+Die Einzelperformances der Klassifikatoren ist in einer jeweiligen Klassifikationszusammenfassung unter dargestellt. 
