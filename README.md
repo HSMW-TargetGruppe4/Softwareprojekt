@@ -24,4 +24,4 @@ The best performing model overall (regarding cross-validation score) is RandomFo
 
 ### Classification Reports
 
-Die Einzelperformances der Klassifikatoren ist in einer jeweiligen Klassifikationszusammenfassung unter dargestellt. 
+Die Einzelperformances der Klassifikatoren ist in einer jeweiligen Klassifikationszusammenfassung unter https://github.com/HSMW-TargetGruppe4/Softwareprojekt/tree/main/classification%20results dargestellt. 
