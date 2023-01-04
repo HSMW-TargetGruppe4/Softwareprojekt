@@ -14,8 +14,8 @@ Accuracy Score on test set 0.83259
            1       0.93      0.83      0.88     10982
 
     accuracy                           0.88     21964
-   macro avg       0.89      0.88      0.88     21964
-weighted avg       0.89      0.88      0.88     21964
+    macro avg       0.89      0.88      0.88     21964
+    weighted avg       0.89      0.88      0.88     21964
 
 
 #### Classification Report Testing set
@@ -27,6 +27,6 @@ weighted avg       0.89      0.88      0.88     21964
            1       0.91      0.79      0.84      3729
 
     accuracy                           0.83      6475
-   macro avg       0.83      0.84      0.83      6475
-weighted avg       0.85      0.83      0.83      6475
+    macro avg       0.83      0.84      0.83      6475
+    weighted avg       0.85      0.83      0.83      6475
 
